@@ -1,5 +1,6 @@
 
 body {
+<<<<<<< HEAD
   color: purple;
   text-align: center;
   background-color: black;
@@ -13,3 +14,9 @@ p{
   text-decoration: dotted;
   text-align-last: center;
 }
+=======
+    color: Purple;
+    text-align: center;
+    background-color: black;
+  } 
+>>>>>>> 814b9f1abd4c02d0d7350bae48ebab60b7c61ac1
